@@ -15,6 +15,7 @@ Python-разработчик с опытом проектирования вы�
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy)
+![PyTest](https://img.shields.io/badge/-PyTest-009688?logo=pytest&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq)  
 **Базы данных**:  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
@@ -25,7 +26,6 @@ Python-разработчик с опытом проектирования вы�
 **Прочее**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
-![PyTest](https://img.shields.io/badge/-PyTest-009688?logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)  
 
 ---
