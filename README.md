@@ -24,9 +24,9 @@ Python-разработчик с опытом проектирования вы�
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab)  
 **Прочее**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)  
-![PyTest](https://img.shields.io/badge/-PyTest-009688?logo=pytest&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+![PyTest](https://img.shields.io/badge/-PyTest-009688?logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)  
 
 ---
 
