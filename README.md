@@ -1,6 +1,6 @@
 # Python-разработчик 🐍  
 ## **Ярослав Малинин**  
-📍 Санкт-Петербург | 📧 [bassein2005@gmail.com](mailto:bassein2005@gmail.com) | 📱 [Telegram](https://t.me/malinincareer)  
+📍 Санкт-Петербург | 📧 [malinin.career@gmail.com](mailto:malinin.career@gmail.com) | 📱 [Telegram](https://t.me/malinincareer)  
 
 ---
 
