@@ -1,56 +1,58 @@
-# Python-разработчик 🐍  
-## **Ярослав Малинин**  
-📍 Санкт-Петербург | 📧 [malinin.career@gmail.com](mailto:malinin.career@gmail.com) | 📱 [Telegram](https://t.me/malinincareer)  
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+  <h1>Hi! I'm Ярослав 👋</h1>
+<!--   <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> -->
+  <a href="mailto:malinin.career@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=blue" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/malinincareer">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=m4llinin&style=flat-square&color=blue" alt=""/>
+  </div>
+</div> 
 
 ---
 
-### 👨💻 Обо мне  
-Python-разработчик с опытом проектирования высоконагруженных систем. Победитель хакатона "Лига приключений" от Совкомбанка 🏆. Стремлюсь создавать надежные, отказоустойчивые, масштабируемые решения, учусь каждый день. В работе ценю чистый код, SOLID и командную синергию.  
+### :man_technologist: Обо мне:  
+Я <b>Python-разработчик</b> 🐍 из Санкт-Петербурга
+- 🔭 Имею опыт проектирования микросервисных систем на FastAPI
+- 🏆 Победитель хакатона "Лига приключений" от Совкомбанка
+- 🤔 Стремлюсь создавать надежные, отказоустойчивые, масштабируемые решения, учусь каждый день
+- ⚡ Стараюсь писать чисто, следовать принципам и не подводить команду.  
 
 ---
 
 ### 🛠 Технологический стек:  
 **Backend**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy)
-![PyTest](https://img.shields.io/badge/-PyTest-009688?logo=pytest&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy)
+![PyTest](https://img.shields.io/badge/PyTest-009688?style=for-the-badge&logo=pytest&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 **Базы данных**:  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Redis](https://img.shields.io/badge/Redis-orange?style=for-the-badge&logo=redis)  
 **Инфраструктура**:  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FCA121?logo=gitlab)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab)  
 **Прочее**:  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-### 📚 Образование:  
-**СПбПУ Петра Великого** (2023–2027)  
-- Информатика и вычислительная техника  
-
-**Курсы**:  
-- Симулятор SQL (KARPOV.COURSES, 2025)  
-- Docker с нуля (KARPOV.COURSES, 2025)  
-
----
-
-### 🏆 Достижения:  
-- **Победитель хакатона** от Совкомбанка (трек "Telegram-боты")
-
----
-
-### 📫 Контакты:  
-📱 [Telegram](https://t.me/malinincareer)  
-📧 [bassein2005@gmail.com](mailto:bassein2005@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-m4llinin-181717?logo=github)](https://github.com/m4llinin)  
+---  
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=m4llinin&theme=dracula&hide_border=true&border_radius=5&locale=ru&border=EB5454" alt="GitHub Streak" /></a>
+</div>
 
 ```python
-print("Открыт к коллаборациям — давайте создавать крутые штуки вместе! 💻")
+if __name__ == "__main__":
+    print("Открыт к коллаборациям — давайте создавать крутые штуки вместе! 💻")
 ```
 
 <!--
