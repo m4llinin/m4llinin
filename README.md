@@ -47,7 +47,9 @@
 
 ---  
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=m4llinin&theme=dracula&hide_border=true&border_radius=5&locale=ru&border=EB5454" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=m4llinin&theme=dracula&hide_border=true&border_radius=5&locale=ru&border=EB5454" alt="GitHub Streak" />
+  </a>
 </div>
 
 ```python
