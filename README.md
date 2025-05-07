@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
   <h1>Hi! I'm Ярослав 👋</h1>
-  <a href="www.linkedin.com/in/yaroslav-malinin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=iinkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/yaroslav-malinin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:malinin.career@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=blue" alt="Email Badge"/>
